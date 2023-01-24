@@ -1,4 +1,4 @@
-# Item Based Collaborative Movie Recommendation System
+# Python Udemy Course
 
 <p align="center">
 	<img src="  " />
